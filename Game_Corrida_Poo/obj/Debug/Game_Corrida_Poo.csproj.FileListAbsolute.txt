@@ -1,0 +1,7 @@
+D:\FoxTex_workover\cSharp\Game_Corrida_Poo\Game_Corrida_Poo\obj\Debug\Game_Corrida_Poo.csproj.AssemblyReference.cache
+D:\FoxTex_workover\cSharp\Game_Corrida_Poo\Game_Corrida_Poo\obj\Debug\Game_Corrida_Poo.csproj.CoreCompileInputs.cache
+D:\FoxTex_workover\cSharp\Game_Corrida_Poo\Game_Corrida_Poo\bin\Debug\Game_Corrida_Poo.exe.config
+D:\FoxTex_workover\cSharp\Game_Corrida_Poo\Game_Corrida_Poo\bin\Debug\Game_Corrida_Poo.exe
+D:\FoxTex_workover\cSharp\Game_Corrida_Poo\Game_Corrida_Poo\bin\Debug\Game_Corrida_Poo.pdb
+D:\FoxTex_workover\cSharp\Game_Corrida_Poo\Game_Corrida_Poo\obj\Debug\Game_Corrida_Poo.exe
+D:\FoxTex_workover\cSharp\Game_Corrida_Poo\Game_Corrida_Poo\obj\Debug\Game_Corrida_Poo.pdb
